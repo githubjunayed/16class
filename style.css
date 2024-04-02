@@ -1,0 +1,139 @@
+.header{
+    background: #101446;
+}
+
+.logo img{
+    width: 100px;
+    height: 100px;
+}
+.header ul{
+    text-align: right;
+}
+.header ul li{
+    display: inline-block;
+}
+.header ul li a{
+    text-decoration: none;
+    padding: 20px 30px;
+    display: inline-block;
+    color: #fff;
+    line-height:50px;
+}
+.banner{
+    background-image: url(https://img.hotimg.com/intro-bg53b2f0a46a801f57.jpeg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    padding: 200px 0;
+}
+.banner-text h1{
+    color: #fff;
+}
+.banner-text span{
+    background:#2b7cb8;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 25px;
+    transition: 1s;
+
+}
+.banner-text span:hover{
+    background: red;
+}
+.banner-text P{
+    color: #fff;
+    padding: 20px 0;
+}
+
+.container-section{
+    background: #bac1f3;
+    padding: 20px 0;
+}
+.container-section .text{
+width: 300px;
+margin: auto;
+    
+}
+.container-section h2{
+    padding: 15px 0;
+    color: #000;
+}
+.aaa{
+    color:#000;
+    font-size: 40px;
+}
+.container-section p{
+    color: #000;
+    
+}
+.container .text a{
+    background: #337ab7;
+    border-radius: 10px;
+    color: #FFF;
+    padding: 10px 50px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+.about{
+    background: #c2d4ea;
+}
+.left{
+    text-align: left;
+}
+.about{
+    padding:20px 0;
+}
+.about .h1 h1{
+    font-size: 70px;
+    padding: 30px 0;
+}
+.write{
+    text-align: left;
+}
+.contact{
+    padding: 40px 0;
+}
+.form{
+    text-align: left;
+    background: #f5f5f5;
+}
+.bbb{
+    width: 400px;
+    height: 30px;
+    
+    
+    border-radius: 10px;
+    padding: 0 10px;
+}
+.ccc{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    padding: 0 10px;
+}
+.ddd{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    padding: 0 10px;
+}
+.submit{
+    color:#000;
+    background: cyan;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.footer{
+    background: #337ab7;
+    color: #fff;
+}
+.d p{
+    width: 600px;
+    height: 150px;
+    text-align: left;
+    margin-top: 20px;
+}
